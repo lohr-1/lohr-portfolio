@@ -105,10 +105,9 @@ const about: About = {
         achievements: [
           <>Designed and prototyped the landing page and dashboards using Figma</>,
           <>
-            Developed features like project management, onboarding flows, and integrations for
+            Designed features like project management, onboarding flows, and integrations for
             occupational health.
           </>,
-          <>Implemented AI-driven insights and ICP Salary Index.</>,
         ],
         images: [],
       },
@@ -146,8 +145,7 @@ const about: About = {
         name: "Self-learning",
         description: (
           <>
-            Studying Python, Node.js, Web Development, Motion & Graphic Design,
-            and Oracle SQL.
+            Studying Python, Web Development, Motion & Graphic Design.
           </>
         ),
       },
@@ -161,12 +159,11 @@ const about: About = {
         title: "Frontend & Design",
         description: (
           <>
-            Experienced with Next.js, React, Tailwind, and design systems. Strong background in Figma
-            and Material Design 3.
+            Experienced with React, JavaScript and design systems. Strong background in Figma
+            and Material Design Kit.
           </>
         ),
         tags: [
-          { name: "Next.js", icon: "nextjs" },
           { name: "React", icon: "react" },
           { name: "Figma", icon: "figma" },
         ],
