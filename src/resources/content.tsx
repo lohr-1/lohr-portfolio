@@ -101,11 +101,11 @@ const about: About = {
       {
         company: "MetaHuman",
         timeframe: "2024 – Present",
-        role: "Software Engineer & Designer",
+        role: "UX/UI Designer",
         achievements: [
-          <>Designed and prototyped the landing page and dashboards using Figma</>,
+          <>Designed and prototyped clear and understandable dashboards using Figma</>,
           <>
-            Designed features like project management, onboarding flows, and integrations for
+            Also designed features like project management, onboarding flows, and integrations for
             occupational health.
           </>,
         ],
@@ -164,8 +164,8 @@ const about: About = {
           </>
         ),
         tags: [
-          { name: "React", icon: "react" },
-          { name: "Figma", icon: "figma" },
+          { name: "React"},
+          { name: "Figma"},
         ],
         images: [],
       },
