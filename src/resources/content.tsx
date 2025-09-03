@@ -6,7 +6,7 @@ const person: Person = {
   lastName: "Lohr",
   name: `Felipe Lohr`,
   role: "Software Engineer | UX Designer",
-  avatar: "/images/IMG_4103",
+  avatar: "/images/avatar.jpg",
   email: "felipelohr2@gmail.com",
   location: "America/Sao_Paulo", // IANA time zone
   languages: ["Portuguese", "English"],
@@ -210,22 +210,22 @@ const gallery: Gallery = {
   description: `A personal collection of visuals, concepts and explorations`,
   images: [
     {
-      src: "/images/gallery/feed (300dpi) V2",
+      src: "/images/gallery/feed (300dpi) V2.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/RECUPERADO 1",
+      src: "/images/gallery/RECUPERADO 1.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/post 1 (sem flor(",
+      src: "/images/gallery/post 1 (sem flor(.png",
       alt: "image",
       orientation: "vertical",
     },
     {
-      src: "/images/gallery/o que somos",
+      src: "/images/gallery/o que somos.png",
       alt: "image",
       orientation: "vertical",
     },
